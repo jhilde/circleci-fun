@@ -1,4 +1,3 @@
-terraform_setup/terraform.tfvars
 # terraform
 **/.terraform/*
-
+**/terraform.tfvars
